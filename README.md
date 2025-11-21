@@ -68,6 +68,7 @@ In order to add any of the objects, make a right click on the corresponding labe
 Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • add slow.lib with a label Slow or any identifier of your own.
+<img width="275" height="209" alt="image" src="https://github.com/user-attachments/assets/9a429496-3767-4bcc-9639-74a6ea836971" />
 
 ### Fig.1 Add slow Library set
 
@@ -80,6 +81,7 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 ### Fig.3 Add RC corner
 
 • Delay Corners are formed by combining Library Sets with RC Corners.
+<img width="589" height="373" alt="image" src="https://github.com/user-attachments/assets/c53f60a4-6762-46f6-b86b-c5c962729346" />
 
 ### Fig.4 Add Delay corner Max_delay & Min_delay
 
@@ -92,6 +94,7 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 ### Fig.6 Add Analysis View Worstcase & Bestcase
 
 • Once “Best” and “Worst” Analysis views are created, assign them to Setup and Hold.
+<img width="689" height="409" alt="image" src="https://github.com/user-attachments/assets/198183b1-e144-453c-ab23-e09d99bff2d3" />
 
 ### Fig.7 Add Setup Analysis View & Hold Analysis View
 
@@ -170,6 +173,7 @@ Under Connect Global Net Connects, we create two pins, one for VDD and one for V
 • To perform Special Route, Select Route → Special Route → Add Nets → OK. 
 
 • After the Special Route is complete, all the Standard Cell Rows turn to the Color coded for Metal 1 
+<img width="884" height="465" alt="image" src="https://github.com/user-attachments/assets/b3bc0a24-6013-49b7-afe5-523e16be02c4" />
 
 ### Fig.10 Power plan 
 
@@ -182,6 +186,9 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 2. Select Place → Place Standard Cell → Run Full Placement → Mode → Enable ‘Place I/O Pins’ → OK → OK .
    
 • All the Standard Cells and Pins are placed as per the communication between them, i.e., Two communicating Cells are placed as close as possible so that shorter Net lengths can be used for connections as Shorter Net Lengths enable Better Timing Results.
+<img width="892" height="473" alt="image" src="https://github.com/user-attachments/assets/c5f62b64-d3d9-40a7-98ad-3f70575b6f04" />
+<img width="888" height="503" alt="image" src="https://github.com/user-attachments/assets/b5ec5837-4bf6-4dd5-a168-dfa213028b89" />
+
 
 ### Fig.11 Placement of standard Cells 
 
