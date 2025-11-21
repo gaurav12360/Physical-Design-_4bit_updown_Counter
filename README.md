@@ -68,7 +68,8 @@ In order to add any of the objects, make a right click on the corresponding labe
 Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • add slow.lib with a label Slow or any identifier of your own.
-<img width="1920" height="1080" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/cc22c661-18be-42ee-b229-62b27724a1ca" />
+<img width="526" height="280" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/c97b029e-bbb8-476c-adf4-37931652ea53" />
+
 
 
 ### Fig.1 Add slow Library set
